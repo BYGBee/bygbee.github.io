@@ -1,4 +1,3 @@
-![Logo Bygbee](images/bygbee_svg.svg)
 # BYGBee
 
 Apiculteur amateur.
